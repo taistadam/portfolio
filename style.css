@@ -1,0 +1,131 @@
+body {
+  font-family: Lato, Roboto;
+}
+
+.navbar {
+  background-color: #000;
+  font-family: Lato, Roboto;
+  max-height: 4em;
+}
+
+h2 {
+  text-align: center;
+padding: 100px 0px 50px;
+border-top: 4px solid #000;
+margin: 0px;
+}
+
+#who {
+  background-color: #F2F2F2;
+padding: 130px 0px 50px;
+}
+
+.about {
+  padding-left: 100px;
+  padding-bottom: 20px;
+  background: linear-gradient(to bottom, #F2F2F2 0%, #808080 100%);
+  font-family: Lato, Roboto;
+  text-align: center;
+  margin: 0px;
+}
+
+h3 {
+  padding-top: 65px;
+}
+
+#currently {
+  font-size: 17px;
+  padding-top: 88px;
+}
+
+.list {
+  padding-top: 60px;
+}
+
+#profile {
+  height: 200px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+blockquote {
+  margin-top: 30px;
+}
+
+#what {
+  background-color: #F2F2F2;
+}
+
+.works {
+  padding: 50px 0px 50px;
+  font-weight: bold;
+  text-align: center;
+  background: linear-gradient(to bottom, #F2F2F2 0%, #595959 100%);
+}
+
+
+img.img-thumbnail {
+  height: 260px;
+width: 260px;
+text-align: center;
+  margin: 50px;
+}
+
+#woodCarousel, #codeCarousel {
+  margin: 50px;
+}
+
+.carousel-inner img {
+  margin: auto;
+  border: solid;
+  border-color: #FFF;
+  border-width: thick;
+}
+
+.carousel-caption {
+  font-weight: normal;
+  font-size: 1em;
+  top: 0;
+  bottom: auto;
+}
+
+
+#where {
+  background-color: #f2f2f2;
+}
+
+.contact {
+  background: linear-gradient(to bottom, #F2F2F2 0%, #000 100%);
+  text-align: center;
+  padding-top: 30px;
+}
+
+.form-small {
+  width: 35%;
+}
+
+.form-text {
+  width: 50%;
+  display: block;
+  height: 40%;
+}
+
+#there {
+  padding-top: 15px;
+}
+
+form{
+margin-left: 40%;
+margin-right: 10%;
+width: 50%;
+}
+
+#submit {
+  margin-left: 13%;
+  margin-right: 72%;
+  width: 15%;
+  margin-bottom: 10%;
+  margin-top: 10px;
+}
+
+
