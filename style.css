@@ -82,6 +82,9 @@ text-align: center;
   border: solid;
   border-color: #FFF;
   border-width: thick;
+  height: auto;
+  max-width: 250px;
+  border-radius: 10%;
 }
 
 .carousel-caption {
