@@ -61,6 +61,7 @@ blockquote {
   padding: 50px 0px 50px;
   font-weight: bold;
   text-align: center;
+  margin: 0px;
   background: linear-gradient(to bottom, #F2F2F2 0%, #595959 100%);
 }
 
