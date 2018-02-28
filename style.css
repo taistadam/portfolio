@@ -94,12 +94,14 @@ text-align: center;
 
 #where {
   background-color: #f2f2f2;
+  margin: 0px;
 }
 
 .contact {
   background: linear-gradient(to bottom, #F2F2F2 0%, #000 100%);
   text-align: center;
   padding-top: 30px;
+  margin: 0px;
 }
 
 .form-small {
