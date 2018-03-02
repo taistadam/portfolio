@@ -79,10 +79,11 @@ text-align: center;
 }
 
 .carousel-inner img {
-  margin: auto;
+  margin: 0 auto;
   border: solid;
   border-color: #FFF;
   border-width: thick;
+  display:block;
 }
 
 #code-images img {
