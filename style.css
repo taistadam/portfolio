@@ -83,8 +83,6 @@ text-align: center;
   border: solid;
   border-color: #FFF;
   border-width: thick;
-  height: auto;
-  max-width: 150px;
 }
 
 #code-images img {
